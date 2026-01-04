@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Patricia Constanza Salas
 
-<!--
-**PatriciaSalas/PatriciaSalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Computer Programming Student | AWS re/Start Participant
 
-Here are some ideas to get you started:
+I am focused on building my technical foundation in Cloud Computing and Infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 About Me
+* **Computer Programmer Analyst:** INACAP (2nd semester).
+* **AWS re/Start:** Intensive Cloud, Linux, and Networking program by Generation Chile.
+* **Google IT Support:** Professional Certificate - Coursera.
+* **Introduction to Cybersecurity:** Cisco Networking Academy.
+
+---
+
+### 📜 Certifications (In Progress)
+* **AWS Certified Cloud Practitioner** (Estimated: January 2026).
+
+---
+
+### 📊 GitHub Stats
+![Patricia's Stats](https://github-readme-stats.vercel.app/api?username=PatriciaSalas&show_icons=true&theme=dark)
